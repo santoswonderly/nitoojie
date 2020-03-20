@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iedashooqu.borsatour.cz/sitemap.xml
